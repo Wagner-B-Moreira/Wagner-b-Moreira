@@ -1,41 +1,71 @@
-# Hi, I’m Wagner 👋  
+# 👋 Olá, eu sou o Wagner Moreira  
 
-## 🚀 Sobre mim  
-Sou um **Full Stack Software Developer ✅** em constante evolução, sempre buscando aprimorar minhas habilidades.  
-Tenho paixão por criar soluções **escaláveis, eficientes e focadas no usuário**, trabalhando com tecnologias modernas para entregar resultados de alta qualidade.  
+## 🚀 Full Stack Software Developer  
+Apaixonado por tecnologia, inovação e criação de soluções que causem impacto real.  
+Sempre aprendendo, evoluindo e entregando software de alta performance.  
+
+💡 Atualmente focado em:
+- Arquitetura de aplicações web
+- APIs escaláveis
+- Boas práticas: Clean Code, SOLID, testes automatizados
+- Cloud & DevOps
 
 ---
 
-## 🛠️ Tecnologias que uso no meu dia a dia  
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+
+### 🎨 Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📈 Minhas Estatísticas no GitHub  
 
 <p align="center">
-  <!-- Estatísticas gerais: commits, PRs, issues, etc. -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagner-b-moreira&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-b-moreira&layout=compact&langs_count=8&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wagner-b-moreira&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-b-moreira&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <!-- Sequência de commits (streak) -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=Wagner-b-moreira&theme=radical&hide_border=false"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Wagner-b-moreira&theme=radical"/>
 </p>
 
 ---
 
+## 📌 Projetos em Destaque
+
+🔹 **API de Agendamento com Node.js & JWT**  
+🔹 **Dashboard administrativo em Next.js**  
+🔹 **Sistema de Gestão com Spring Boot + PostgreSQL**  
+🔹 *(mais projetos chegando…)*  
 
 ---
 
-✨ Obrigado por visitar meu perfil! 🚀  
+## 🌐 Onde me encontrar
+
+📩 Email: **Wagnermoreirabastos16@gmail.com**  
+💼 LinkedIn: *em breve*  
+🧪 GitHub Projects: aqui mesmo 🚀
+
+---
+
+✨ Obrigado por visitar meu perfil!  
+Se gostou, deixe uma ⭐ nos repositórios! 😄  
+
