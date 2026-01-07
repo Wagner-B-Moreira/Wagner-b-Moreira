@@ -1,8 +1,13 @@
- # 👋 Olá, eu sou o Wagner Moreira  
+ <p align="center">
+  <img src="./capa.jpg" width="100%" />
+</p>
+
+# 👋 Olá, eu sou o Wagner Moreira  
 
 ## 🚀 Full Stack Software Developer  
 Apaixonado por tecnologia, inovação e criação de soluções que causem impacto real.  
 Sempre aprendendo, evoluindo e entregando software de alta performance.  
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
