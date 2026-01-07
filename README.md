@@ -1,16 +1,8 @@
-# 👋 Olá, eu sou o Wagner Moreira  
+ # 👋 Olá, eu sou o Wagner Moreira  
 
 ## 🚀 Full Stack Software Developer  
 Apaixonado por tecnologia, inovação e criação de soluções que causem impacto real.  
 Sempre aprendendo, evoluindo e entregando software de alta performance.  
-
-💡 Atualmente focado em:
-- Arquitetura de aplicações web
-- APIs escaláveis
-- Boas práticas: Clean Code, SOLID, testes automatizados
-- Cloud & DevOps
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -46,15 +38,6 @@ Sempre aprendendo, evoluindo e entregando software de alta performance.
 <p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=Wagner-b-moreira&theme=radical"/>
 </p>
-
----
-
-## 📌 Projetos em Destaque
-
-🔹 **API de Agendamento com Node.js & JWT**  
-🔹 **Dashboard administrativo em Next.js**  
-🔹 **Sistema de Gestão com Spring Boot + PostgreSQL**  
-🔹 *(mais projetos chegando…)*  
 
 ---
 
