@@ -1,15 +1,16 @@
  <p align="center">
-  <img src="./capa.jpg" width="100%" />
+  <img src="./capa.jpg" width="100%" alt="Banner Wagner Moreira"/>
 </p>
 
-# 👋 Olá, eu sou o Wagner Moreira  
+# 👋 Olá, eu sou o **Wagner Moreira**  
 
-## 🚀 Full Stack Software Developer  
-Apaixonado por tecnologia, inovação e criação de soluções que causem impacto real.  
-Sempre aprendendo, evoluindo e entregando software de alta performance.  
+## 🚀 Full Stack Software Developer | Criando o futuro com código  
+Apaixonado por **tecnologia, inovação e impacto real**.  
+Sempre em busca de evoluir, aprender e entregar soluções de **alta performance**.  
 
+---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack 2026
 
 ### 💻 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,30 +31,32 @@ Sempre aprendendo, evoluindo e entregando software de alta performance.
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub  
+## 📊 Estatísticas GitHub  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wagner-b-moreira&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-b-moreira&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wagner-b-moreira&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-b-moreira&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Wagner-b-moreira&theme=radical"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Wagner-b-moreira&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Conecte-se comigo  
 
 📩 Email: **Wagnermoreirabastos16@gmail.com**  
-💼 LinkedIn: *em breve*  
-🧪 GitHub Projects: aqui mesmo 🚀
+💼 LinkedIn: [linkedin.com/in/wagner-moreira](https://linkedin.com/in/wagner-moreira)  
+🌍 Portfólio: [wagner.dev](https://wagner.dev)  
 
 ---
 
-✨ Obrigado por visitar meu perfil!  
-Se gostou, deixe uma ⭐ nos repositórios! 😄  
+✨ *"Transformando ideias em código e código em impacto."*
+
 
