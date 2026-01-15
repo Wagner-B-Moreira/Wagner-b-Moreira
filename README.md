@@ -1,7 +1,4 @@
- <p align="center">
-  <img src="./capa.jpg" width="100%" alt="Banner Wagner Moreira"/>
-</p>
-
+ 
 # 👋 Olá, eu sou o **Wagner Moreira**  
 
 ## 🚀 Full Stack Software Developer | Criando o futuro com código  
@@ -52,8 +49,7 @@ Sempre em busca de evoluir, aprender e entregar soluções de **alta performance
 ## 🌐 Conecte-se comigo  
 
 📩 Email: **Wagnermoreirabastos16@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/wagner-moreira](https://linkedin.com/in/wagner-moreira)  
-🌍 Portfólio: [wagner.dev](https://wagner.dev)  
+  
 
 ---
 
