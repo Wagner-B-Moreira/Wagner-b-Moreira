@@ -1,4 +1,4 @@
- # 👋 Olá, eu sou Wagner Moreira!
+  # 👋 Olá, eu sou Wagner Moreira!
 
 **Software Engineer | Backend Java | Spring Boot | Node.js | Next.js | AWS**
 
@@ -14,53 +14,41 @@ Sou fundador da **WA Software**, onde desenvolvo projetos e soluções de tecnol
 
 ### 💻 Front-end
 
-
-
-
-&#x20;cade 
-
-\
-
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" alt="Front-end" />
+</p>
 
 ### ⚙️ Backend
 
-
-
-\
-
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Backend" />
+</p>
 
 ### 🗄️ Bancos de Dados
 
-
-
-
-\
-
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,dynamodb,supabase" alt="Bancos de Dados" />
+</p>
 
 ### ☁️ Cloud & DevOps
 
-
-
-
-
-
-
-
-\
-
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux" alt="Cloud & DevOps" />
+</p>
 
 ### 🧪 Testes e Qualidade
 
-
-\
-
+<p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+</p>
 
 ### 🔧 Ferramentas
 
-
-
-\
-
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,maven,figma" alt="Ferramentas" />
+</p>
 
 ---
 
@@ -79,23 +67,23 @@ Sou fundador da **WA Software**, onde desenvolvo projetos e soluções de tecnol
 
 ## 📌 Projetos em destaque
 
-| Projeto         | Descrição                                                     | Tecnologias                   |
-| --------------- | ------------------------------------------------------------- | ----------------------------- |
-| PIX Transaction | Microsserviço de processamento Pix simulado                   | Java, Spring Boot             |
-| PayFlow Lite    | API de pagamentos simulados com armazenamento de comprovantes | Java, Spring Boot, AWS S3     |
-| BankFlow        | Sistema bancário com gerenciamento de contas e transações     | Java, Spring Boot, PostgreSQL |
-| WaBank          | Aplicação bancária Full Stack                                 | Next.js, Supabase             |
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [PIX Transaction](https://github.com/Wagner-B-Moreira/NOME-DO-REPO) | Microsserviço de processamento Pix simulado | Java, Spring Boot |
+| [PayFlow Lite](https://github.com/Wagner-B-Moreira/NOME-DO-REPO) | API de pagamentos simulados com armazenamento de comprovantes | Java, Spring Boot, AWS S3 |
+| [BankFlow](https://github.com/Wagner-B-Moreira/NOME-DO-REPO) | Sistema bancário com gerenciamento de contas e transações | Java, Spring Boot, PostgreSQL |
+| [WaBank](https://github.com/Wagner-B-Moreira/NOME-DO-REPO) | Aplicação bancária Full Stack | Next.js, Supabase |
 
-Confira outros projetos no meu GitHub!
+👉 Confira outros projetos no meu [GitHub](https://github.com/Wagner-B-Moreira?tab=repositories)!
 
 ---
 
 ## 📊 GitHub Stats
 
-\<p align="center">
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=Wagner-B-Moreira&show_icons=true&theme=tokyonight&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Wagner-B-Moreira\&show_icons=true\&theme=tokyonight\&include_all_commits=true)" />
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-B-Moreira&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-B-Moreira\&layout=compact\&theme=tokyonight)" />
-\</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wagner-B-Moreira&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-B-Moreira&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -116,13 +104,13 @@ Desenvolvimento de soluções tecnológicas, aplicações web e APIs, com foco e
 
 ## 📬 Contato
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/Wagner-moreira-75b08132b/](https://www.linkedin.com/in/Wagner-moreira-75b08132b/)
-- 💻 **GitHub:** [https://github.com/Wagner-B-Moreira](https://github.com/Wagner-B-Moreira)
-- 📸 **Instagram:** [https://www.instagram.com/wasoftware\_/](https://www.instagram.com/wasoftware_/)
-- 📧 **E-mail:** [Wagnermoreirabastos16@gmail.com](mailto\:Wagnermoreirabastos16@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/Wagner-moreira-75b08132b](https://www.linkedin.com/in/Wagner-moreira-75b08132b/)
+- 💻 **GitHub:** [github.com/Wagner-B-Moreira](https://github.com/Wagner-B-Moreira)
+- 📸 **Instagram:** [@wasoftware_](https://www.instagram.com/wasoftware_/)
+- 📧 **E-mail:** [Wagnermoreirabastos16@gmail.com](mailto:Wagnermoreirabastos16@gmail.com)
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Transformando ideias em soluções através da tecnologia e da engenharia de software."\</i>
-\</p>
+<p align="center">
+  <i>"Transformando ideias em soluções através da tecnologia e da engenharia de software."</i>
+</p>
